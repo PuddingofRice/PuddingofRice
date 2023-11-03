@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PuddingofRice
+- 👋 Hi, My name is Olver Rice
 - 👀 I’m interested in gaming and coding said games.
-- 🌱 I’m currently learning how to code games in C# and will accept any help in learning how to code with it.
-- 💞️ I’m looking to collaborate on coding games (on unity preferably) and anything to do with C#.
-- 📫 How to reach me: My discord is: Pudding of Rice#0965
+- 🌱 I’m currently learning how to code games in C#, JavaScript, Game Maker Studios Language and Python. I am always eager to learn more!
+- 💞️ I am currently collaborating on making a game on Game maker studio.
+- 📫 How to reach me: My discord is: puddingofrice.
 
 <!---
 PuddingofRice/PuddingofRice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
